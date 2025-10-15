@@ -49794,8 +49794,6 @@ vkcdnservice.appspot.com^
 ||timon.zijieapi.com^
 ||tnc*.zijieapi.com^
 ||view.zijieapi.com^
-||mcs.zijieapi.com^
-||mon.zijieapi.com^
 ||pa-cd.com^
 ||covatic.io^
 ||cdn.gpmdata.ru^
